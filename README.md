@@ -63,8 +63,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 - Open-source plugin authors for inspiration.  
 
 ## Contact
-Your Name · [@YourTwitter](https://twitter.com/YourTwitter) · your.email@example.com
-``` ```html
-
-```
-::contentReference[oaicite:0]{index=0}
+Omar Hamza · [@Shortvilliann](https://x.com/Shortvilliann) · omar@neithowl.com
+Portfolio: [Portfolio](https://omarhamza.me/)
